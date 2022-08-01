@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "615445489947",
+    "firebase_url": "https://facerecognizer-3452a.firebaseio.com",
+    "project_id": "facerecognizer-3452a",
+    "storage_bucket": "facerecognizer-3452a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615445489947:android:b696efec92f8f7c5788bbe",
+        "android_client_info": {
+          "package_name": "com.facerecognizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615445489947-18kg0ih6h8ntud6lr8l5m41a5gq66lm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeGyrY9PuacoHyr1Xt_ME_c0H6Ox1frg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615445489947-18kg0ih6h8ntud6lr8l5m41a5gq66lm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
